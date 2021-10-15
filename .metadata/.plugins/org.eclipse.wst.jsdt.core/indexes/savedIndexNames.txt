@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+C:\Project\openAPI\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1929239339.index
+3234893085.index
